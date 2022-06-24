@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../vscode-dev-container"
+		},
+		{
+			"path": "../F5-vscode-devcontainer"
+		}
+	],
+	"settings": {}
+}
